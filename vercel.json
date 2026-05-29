@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://ms-pedidos-q7pm.onrender.com/api/:path*"
+    }
+  ]
+}
